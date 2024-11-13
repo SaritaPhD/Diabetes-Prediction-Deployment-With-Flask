@@ -1,6 +1,6 @@
 # Diabetes Prediction Web Application
 
-The objective of this project is to deploy a machine learning model through a Flask-based web application to predict whether a patient is diabetic or non-diabetic based on their medical details, such as glucose level, BMI, age, and other health indicators. This application aims to provide healthcare providers and patients with a tool to easily and quickly assess the likelihood of diabetes, aiding in early detection and intervention.     
+The objective of this project is to build and deploy a machine learning model through a Flask-based web application to predict whether a patient is diabetic or non-diabetic based on their medical details, such as glucose level, BMI, age, and other health indicators. This application aims to provide healthcare providers and patients with a tool to easily and quickly assess the likelihood of diabetes, aiding in early detection and intervention.     
 
 ## Business Constraints
 - Real-time Prediction: The application should respond quickly to user input for an efficient and seamless experience.
