@@ -4,7 +4,7 @@ import pickle
 import numpy as np
 import pandas as pd
    
-
+ 
 application = Flask(__name__)
 app=application
 
